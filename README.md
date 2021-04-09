@@ -4,15 +4,16 @@
 
 2. follow the steps:
 
--Enter the project:
+- Paste your newsApi key in keys.js
+- Run the command
 
 `npm install` 
 
-on both projects i.e. node project and subproject(client/condenast-react) 
+On both projects i.e. node project and subproject(client/condenast-react) 
 
-After that run the following command:
+- After that run the following command:
 
 `npm dev start`
 
-React app will be using port: 3000
-Node app will use port: 9000
+- React app will be using port: 3000
+- Node app will use port: 9000
