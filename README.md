@@ -9,7 +9,7 @@
 
 `npm install` 
 
-On both projects i.e. node project and subproject(client/condenast-react) 
+on both projects i.e. node project and subproject(client/condenast-react) 
 
 - After that run the following command:
 
