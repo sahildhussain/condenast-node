@@ -8,7 +8,7 @@
 
 `npm install` 
 
-on both i.e. node project and subproject(Client)
+on both projects i.e. node project and subproject(Client)
 
 After that run the following command:
 
