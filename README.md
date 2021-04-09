@@ -5,13 +5,16 @@
 2. follow the steps:
 
 - Paste your newsApi key in keys.js
-- Run the command
+- Run the command inside condenast-node
 
 `npm install` 
 
-on both projects i.e. node project(condenast-node) and subproject(condenast-react) 
+- clone condenast-react inside condenast-node
+- Run following command inside condenast-react
 
-- After that run the following command:
+`npm install`
+
+- After that run the following command on condenast-node:
 
 `npm dev start`
 
